@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+prophet
+reportlab
+sqlalchemy
+python-dotenv
+Pillow
+kaleido
+google-genai
+python-dotenv
